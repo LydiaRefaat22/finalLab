@@ -1,0 +1,19 @@
+h1{
+  color: rgb(107 93 79 );
+}
+p{
+  color: rgba(107, 93, 79, 0.7);
+}
+.fa-solid{
+  color: rgb(107 93 79 );
+  margin-bottom: 20px;
+  font-size: 20px;
+
+}
+h5{
+   color: rgba(107, 93, 79, 0.7);
+}
+span{
+  color: rgb(107 93 79 );
+
+}

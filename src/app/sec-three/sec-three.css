@@ -1,0 +1,12 @@
+.last{
+  background-color: rgb(44 36 22);
+  color: rgb(245 241 235);
+
+}
+a{
+  text-decoration: none;
+  color:rgb(245 241 235) ;
+}
+.last-element{
+  border-top: .5px solid rgb(245 241 235)  ;
+}

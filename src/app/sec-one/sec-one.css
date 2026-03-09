@@ -1,0 +1,20 @@
+.btn{
+  background-color: rgb(139 115 85);
+  color: white;
+  font-weight: bold;
+}
+h1{
+  color: rgb(107 93 79);
+  font-size: 50px;
+}
+h2{
+  color: rgb(107 93 79);
+}
+p{
+  line-height: 1.8;
+color: #6b5d4fcc;
+}
+span{
+  color:#6b5d4fcc ;
+}
+
